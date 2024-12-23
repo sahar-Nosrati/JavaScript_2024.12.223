@@ -1,0 +1,41 @@
+- W3schools/programiz 2024.12.22
+
+- JavaScript is a high-level, versatile programming language primarily used to create dynamic and interactive content on websites. It allows developers to implement features like animations, form validations, real-time updates, and more, and can be used both on the client side (in web browsers) and the server side (e.g., with Node.js).
+
+- role of JS ->
+  - Change HTML Content
+  - Change HTML Attribute Values
+  - Change HTML Styles (CSS)
+  - Hide HTML Elements 
+    - Css style in order to hide HTML elements ->
+      - display: "none"
+      - visibility: hidden;
+  - Show HTML Elements
+
+- A JavaScript function is a block of JavaScript code, that can be executed when "called" for.
+
+- External JavaScript Advantages
+  - It separates HTML and code
+  - It makes HTML and JavaScript easier to read and maintain
+  - Cached JavaScript files can speed up page loads
+
+- JavaScript Display Possibilities ->
+  - Writing into an HTML element, using innerHTML.
+  - Writing into the HTML output using document.write().
+  - Writing into an alert box, using window.alert().
+  - Writing into the browser console, using console.log().
+
+- window object is the global scope object
+- statement -> In JavaScript, a statement is an instruction that the JavaScript engine executes to perform a specific action. It forms the building blocks of JavaScript code. Statements can perform actions like declaring variables, making decisions, iterating over data, or performing calculations. And it will be finished bt semicolons (best practice) 
+- JavaScript statements are composed of: Values, Operators, Expressions, Keywords, and Comments.
+
+- The JavaScript syntax defines two types of values:
+  - Fixed values
+  - Variable values
+
+- JavaScript uses the keywords var, let and const to declare variables.
+- An equal sign is used to assign values to variables.
+
+- An expression is a combination of values, variables, and operators, which computes to a value.
+- Identifiers are used to name variables and keywords, and functions.
+- In JavaScript, we use the var or let keywords to declare variables.
